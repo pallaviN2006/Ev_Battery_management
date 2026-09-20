@@ -96,3 +96,14 @@ This project demonstrates practical understanding of:
         │ Remaining Time       │
         │ Battery Status       │
         └──────────────────────┘
+
+
+## 📸 Project Demonstration
+
+### Wokwi Circuit
+
+![Wokwi Circuit](images/circuit.png)
+
+### LCD Output
+
+![LCD Output](images/battery_good.png)
