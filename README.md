@@ -71,7 +71,7 @@ This project demonstrates practical understanding of:
 
 ![LCD Output](images/battery_good.png)
 
-## ⚙️ System Architecture
+## ⚙️  Project Workflow
 
 ```text
         ┌──────────────────────┐
