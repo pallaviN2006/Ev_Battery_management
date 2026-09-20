@@ -96,6 +96,10 @@ This project demonstrates practical understanding of:
         │ Remaining Time       │
         │ Battery Status       │
         └──────────────────────┘
+
+
+
+
 ## 👩‍💻 Author
 
 **Namala Pallavi**
