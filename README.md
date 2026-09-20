@@ -21,6 +21,13 @@ The monitored information is displayed using **16×2 LCD displays**.
 
 >  This project is an educational virtual prototype developed using Arduino in Wokwi. Potentiometers are used to simulate certain battery parameters.
 
+
+## ▶️ Wokwi Simulation
+
+The complete virtual prototype of this project is available on Wokwi.
+
+👉 [Open the Wokwi Simulation](https://wokwi.com/projects/467145974614436865)
+
 ---
 
 ## 🎯 Project Objective
