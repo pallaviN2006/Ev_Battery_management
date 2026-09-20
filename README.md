@@ -61,6 +61,15 @@ This project demonstrates practical understanding of:
 - Embedded-system simulation and debugging
 
 ---
+## 📸 Project Demonstration
+
+### Wokwi Circuit
+
+![Wokwi Circuit](images/circuit.png)
+
+### LCD Output
+
+![LCD Output](images/battery_good.png)
 
 ## ⚙️ System Architecture
 
@@ -98,12 +107,5 @@ This project demonstrates practical understanding of:
         └──────────────────────┘
 
 
-## 📸 Project Demonstration
 
-### Wokwi Circuit
 
-![Wokwi Circuit](images/circuit.png)
-
-### LCD Output
-
-![LCD Output](images/battery_good.png)
