@@ -96,9 +96,3 @@ This project demonstrates practical understanding of:
         │ Remaining Time       │
         │ Battery Status       │
         └──────────────────────┘
-
-
-
-
-
-[GitHub Profile](https://github.com/pallaviN2006)
