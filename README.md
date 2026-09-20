@@ -96,3 +96,12 @@ This project demonstrates practical understanding of:
         │ Remaining Time       │
         │ Battery Status       │
         └──────────────────────┘
+## 👩‍💻 Author
+
+**Namala Pallavi**
+
+B.Tech – Electronics and Communication Engineering
+
+**Project:** EV Battery Health Monitoring System
+
+[GitHub Profile](https://github.com/pallaviN2006)
