@@ -19,7 +19,7 @@ The system monitors and processes battery-related parameters such as:
 
 The monitored information is displayed using **16×2 LCD displays**.
 
-> **Note:** This project is an educational virtual prototype developed using Arduino and Wokwi. Potentiometers are used to simulate certain battery parameters.
+>  This project is an educational virtual prototype developed using Arduino in Wokwi. Potentiometers are used to simulate certain battery parameters.
 
 ---
 
